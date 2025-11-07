@@ -7,7 +7,7 @@ Nice to meet you | ยินดีที่ได้รู้จักนะค�
 
 ### 🛠️ Tech Stack & Tools
 I work with a variety of technologies, covering both frontend frameworks and backend languages:
-  * **Frontend Frameworks**: Vue 3, React, Angular
+  * **Frontend Frameworks**: Vue 3, React, Angular, Next, Nuxt,
   * **Styling & UI**: Vuetify, Tailwind CSS, Bootstrap
   * **Languages**: JavaScript, TypeScript, Python, C , C++
   * **Web Fundamentals**: HTML, CSS
